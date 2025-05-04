@@ -1,5 +1,9 @@
-# Memorial---Redes-Neurais-e-Algoritmos-Gen-ticos 🧠🧬
-Coletânea de atividades individuais desenvolvidas na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, ministrada pelo Prof. Dr. Daniel R. Cassar na Ilum Escola de Ciência.
+# <p align="center"> Memorial---Redes-Neurais-e-Algoritmos-Gen-ticos 🧠🧬 </p>
+<p align="center"> Coletânea de atividades individuais desenvolvidas na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, ministrada pelo Prof. Dr. Daniel R. Cassar na Ilum Escola de Ciência. </p>
+
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 <img aling="center" width=900 src="./logos_ilum_cnpem_mcti_mec.png">
 
