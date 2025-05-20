@@ -19,5 +19,7 @@ Na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, ministrada pelo P
 * **ATP-303_Memorial_3.1**: construção do grafo computacional de uma expressão matemática, com cálculo dos gradientes locais de cada vértice numérico realizando o backpropagation a partir do vértice folha.
 * **ATP-303_Memorial_3.2**: modelagem de elementos químicos e moléculas a partir de classes de *Python*.
 * **ATP-303_Memorial_3.4**: desenvolvimento de uma classe de <i>Python</i> para tratamento de sequências numéricas e literais, utilizando métodos <i>__dunder__</i> comparativos.
+* **ATP_303_Memorial_4.9**: desenvolvimento de um algoritmo genético para descobrir uma senha sem saber o seu tamanho para gerar a população do problema, apenas que a senha tem entre 1 e 30 dígitos.
+* **funcoes_senha_tvar**: script Python para definir as funções utilizadas no problema da senha de tamanho variável (**ATP_303_Memorial_4.9**).
 * **README**: Informações gerais sobre o repositório GitHub.
 * **logos_ilum_cnpem_mcti_mec.png**: imagem de capa do repositório GitHub, referente às instituições relacionadas à disciplina de Redes Neurais e Algoritmos Genéticos.
