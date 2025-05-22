@@ -29,7 +29,7 @@ Na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, ministrada pelo P
 * **Arquivos de código independentes**: Para o funcionamento desses arquivos, é necessário apenas a instalação das bibliotecas indicadas na primeira célula do notebook. Esses arquivos são:
   - **ATP-303_Memorial_3.2**;
   - **ATP-303_Memorial_3.4**.
-* **Arquivos de código dependentes**: Para o funcionamento desses arquivos, é necessário não apenas a instalação das bibliotecas indicadas na primeira célula do notebook, mas também a instação dos scripts Python indicados. Esses arquivos e seus scripts correspondentes são:
+* **Arquivos de código dependentes**: Para o funcionamento desses arquivos, é necessário não apenas a instalação das bibliotecas indicadas na primeira célula do notebook, mas também a instalação dos scripts Python indicados. Esses arquivos e seus scripts correspondentes são:
   - **ATP_303_Memorial_4.9**, que depende das funções importadas de **funcoes_senha_tvar**.
 * **Arquivos de não código**: Esses arquivos incluem pdfs, imagens e a própria descrição do repositório, podendo ser acessados de maneira independente. Esses arquivos são:
   - **ATP-303_Memorial_3.1**;
