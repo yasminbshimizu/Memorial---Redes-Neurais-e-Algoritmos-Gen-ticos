@@ -48,4 +48,10 @@ Na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, ministrada pelo P
   - functools
   
 ## 📚 Referências
-Aulas ministradas e materiais desenvolvidos pelo Prof. Dr. Daniel R. Cassar na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos.
+Aulas ministradas e materiais desenvolvidos pelo Prof. Dr. Daniel R. Cassar na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, na Ilum Escola de Ciência.
+
+Aulas das disciplinas experimentais ministradas pela Profª Valéria Spolon Marangoni --- Práticas Básicas de Laboratório, e Laboratório Avançado I ---, na Ilum Escola de Ciência <i>(**ATP-303_Memorial_3.2**)</i>. 
+
+MORSELS, Python. Every dunder method in Python. Python Morsels, 2023. Disponível em: https://www.pythonmorsels.com/every-dunder-method/. Acesso em: 01 abril 2025 <i>(**ATP-303_Memorial_3.4**)</i>.
+
+GENBANK. Gadus morhua voucher USNM:FISH:447400 cytochrome oxidase subunit 1 (COI) gene, partial cds; mitochondrial. GenBank, 2023. Disponível em: https://www.ncbi.nlm.nih.gov/nuccore/MT456169.1?report=fasta. Acesso em: 27 março 2025 <i>(**ATP-303_Memorial_3.4**)</i>.
