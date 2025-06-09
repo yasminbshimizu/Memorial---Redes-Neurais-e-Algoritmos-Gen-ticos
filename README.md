@@ -47,3 +47,5 @@ Na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos, ministrada pelo P
   - string
   - functools
   
+## 📚 Referências
+Aulas ministradas e materiais desenvolvidos pelo Prof. Dr. Daniel R. Cassar na disciplina ATP-303 - Redes Neurais e Algoritmos Genéticos.
